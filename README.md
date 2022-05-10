@@ -10,5 +10,5 @@
 - Bree Serif [link](https://fonts.google.com/specimen/Bree+Serif)
 
 <p align="center">
-   <img width ="469" height"300" src="lib/assets/filmes.gif">
+   <img width ="469" height"300" src="assets/filmes.gif">
 </p>
